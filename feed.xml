@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-04-13T17:09:12+00:00</updated><id>/feed.xml</id><title type="html">Perpetua</title><subtitle>Thoughts on our economy and society within the boundaries of our finite planet.</subtitle><author><name>Erik R.</name></author><entry><title type="html">Don’t Put a Price on Our Future</title><link href="/blog/dont-put-a-price-on-our-future/" rel="alternate" type="text/html" title="Don’t Put a Price on Our Future" /><published>2025-04-13T00:00:00+00:00</published><updated>2025-04-13T00:00:00+00:00</updated><id>/blog/dont-put-a-price-on-our-future</id><content type="html" xml:base="/blog/dont-put-a-price-on-our-future/"><![CDATA[<p>Our world is made up of a multitude of people, animals, plants, objects, and landscapes that are valuable to us as humans. Very often, we need to make uncomfortable trade-offs between two or more valued entities. Economists, to solve these trade-offs reduce everything possible to a common unit of measurement, dollars. Once everything has been reduced to the same units, and accepted that more of the unit is better, any uncomfortable decision is made simple and unambiguous: pick the option with the highest corresponding dollar-value.</p>
+
+<p>Tricky choices still need to be made, but they are done during the calculation of costs and benefits, independent of the decision rule, which is always, more is better. For example, while any person would have a hard time assigning a dollar value to life, this estimate has already been done by the <a href="https://web.archive.org/web/20250406140004/https://www.epa.gov/environmental-economics/mortality-risk-valuation#means">United States Environmental Protection Agency, which estimates the value of a  human life at 7.6 million US$ (in 2006 dollars)</a>, so around 12 million US$ at the start of 2025 if you adjust for inflation using the CPI index. Put bluntly, if 10 workers are subjected to a 1-in-10 risk of death per year in the workplace, removing this risk is only worth it if it costs less than 7.6 million per year.
+Of course, they emphasize that they are not assigning value to a single human being, but to “a statistical life”, a distinction that I don’t think makes any difference to the arithmetic of cost-benefit analysis.</p>
+
+<p>My least favorite cost-benefit analysis comes from the winner of the The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel, William Nordhaus. During his prize lecture in 2018 he showed a graph that claimed that in the economic “optimal” path for climate change the average world temperature would be ~3.5 °C by the year 2100.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h1RkSuAs03Q?si=qTUhAvPe1YndDsab&amp;start=1183" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+
+<p>Which is honestly, very depressing. In the <a href="https://doi.org/10.1073/pnas.2312030121">latest version</a> of his model, he estimates that warming our planet by 3 °C will cost about 2.2% of GDP. If you include tipping points this estimate increases by about 1% (i.e. the risk that going above 1.5 °C of warming will destabilize the whole earth’s climate system and irreversibly move us away from the conditions we have relied on to build our civilization). That is less than a setback of merely <strong>two-years</strong> (!) in terms of GDP per capita (using the average world’s growth rate between 1990-2023).  <a href="https://web.archive.org/web/20250408192135/https://www.stockholmresilience.org/research/research-news/2022-09-08-world-at-risk-of-passing-multiple-climate-tipping-points-above-1.5c-global-warming.html">At 1.5 °C it already becomes <strong>likely</strong> (not just possible) to trigger tipping points leading to the collapse of Greenland and West Antarctic ice sheets, widespread permafrost thaw, and massive die-off of coral reefs</a>, but according to Nordhaus, causing double this temperature increase is just as harmless as losing two-years of GDP growth.</p>
+
+<p>Now, there is no justification for the relentless need to reduce everything to a dollar price that can be substituted by anything else with an equal dollar price. In reality, this is often at odds with people’s preferences: People commonly refuse to make trade-offs between environmental preservation and money. When surveys try place a value on the environment by asking citizens what they are willing to pay to avoid some damage to the environment, they often receive “protest bids” (in the form of zero or infinity dollars) by citizens that reject the trade-off altogether (Gowdy, 2004).</p>
+
+<p>While substitutability is the rule in preferences in standard microeconomics, it is not a law related to actual people’s preferences. People can, for example, hold preferences of a lexicographic nature. Take this example from Lavoie (2015):</p>
+
+<p><img src="/assets/images/2025-04-13-dont-put-a-price-on-our-future/lexicographic_ordering_indifference_curves.jpg" alt="" /></p>
+
+<p>The figure represents the preferences of an individual between two “goods”, $z_1$ and $z_2$ . Let’s say $z_1$ represents income and $z_2$ represents protected natural habitat for wildlife. The individual’s main priority is to reach a minimum level of income $z_1^*$, no amount of environmental protection is preferred to a rise in income (E is preferred to A, B, C). However, once his satisficing income target is met, his priority shifts to environmental protection. No amount of income is preferred to a rise in environmental protection (G is preferred to D, E, F). The environment is not reducible to a dollar price, it is not for sale.  This type of preference does a good job at capturing the idea that, once we have taken care of ourselves (by achieving a dignified standard of living) it is our moral responsibility to take care of our biosphere at any cost.</p>
+
+<p>All this to say, let’s not blindly accept the premise, established by economists such as Nordhaus, that we need to put our future up for sale. While cost-benefit studies might seem “objective”, “positive” or “neutral”, they assume (or rather impose) social preferences upon our society that might be at odds with many citizens’ preferences, and human rights. There is nothing to gain trying to do some intertemporal consumption maximization to find the optimal amount of damage we can do. Science has agreed on our budget for global warming - 1.5°C - let’s just respect this boundary.</p>
+
+<p><strong>References:</strong>
+Barrage, L., &amp; Nordhaus, W. (2024). Policies, projections, and the social cost of carbon: Results from the DICE-2023 model. <em>Proceedings of the National Academy of Sciences</em>, <em>121</em>(13), e2312030121. <a href="https://doi.org/10.1073/pnas.2312030121">https://doi.org/10.1073/pnas.2312030121</a></p>
+
+<p>Gowdy, J. M. (2004). The Revolution in Welfare Economics and Its Implications for Environmental Valuation and Policy. <em>Land Economics</em>, <em>80</em>(2), 239. <a href="https://doi.org/10.2307/3654741">https://doi.org/10.2307/3654741</a></p>
+
+<p>Lavoie, M. (2015). <em>Post-Keynesian economics: New foundations</em> (Paperback ed. reprinted with amendments). Elgar.</p>]]></content><author><name>Erik R.</name></author><category term="Blog" /><category term="Welfare" /><category term="Sustainability" /><category term="Microeconomics" /><category term="Opinion" /><summary type="html"><![CDATA[Our world is made up of a multitude of people, animals, plants, objects, and landscapes that are valuable to us as humans. Very often, we need to make uncomfortable trade-offs between two or more valued entities. Economists, to solve these trade-offs reduce everything possible to a common unit of measurement, dollars. Once everything has been reduced to the same units, and accepted that more of the unit is better, any uncomfortable decision is made simple and unambiguous: pick the option with the highest corresponding dollar-value.]]></summary></entry><entry><title type="html">A New-Developmentalist Growth Model</title><link href="/blog/a-new-developmentalist-growth-model/" rel="alternate" type="text/html" title="A New-Developmentalist Growth Model" /><published>2024-02-24T00:00:00+00:00</published><updated>2024-02-24T00:00:00+00:00</updated><id>/blog/a-new-developmentalist-growth-model</id><content type="html" xml:base="/blog/a-new-developmentalist-growth-model/"><![CDATA[<!--more-->
+<p>The slow-down of economic development experienced by Brazil and other middle-income countries can be well explained by “New Developmentalism”. New Developmentalism is a macroeconomic framework (or school of thought) originated by Luiz Carlos Bresser-Pereira that puts international trade at the heart of the explanation of the middle income trap. For a short introduction to the framework, see <a href="https://www.bresserpereira.org.br/papers/2017/299-New%20Developmentalism-DOC-Format.pdf">this paper by Bresser-Pereira</a>.</p>
+
+<p>In this framework the industrial sector plays a key role in economic development. The reason for this is, at the simplest level, that industrial sector tends to have higher levels of labor productivity, and thus can support a higher GDP per capita. Additionally, it is a dynamic sector, responsible for innovation through research and development, and demands skilled employees working high-paying jobs. Thus, development is intrinsically linked to industrialization.</p>
+
+<p>A simplistic summary of the main causal chain in the new-developmentalist explanation of the would be:</p>
+<ol>
+  <li>Brazil’s low per-capita growth is caused by it’s de-industrialization trend</li>
+  <li>The de-industrialization trend is caused by an “over-appreciated currency”</li>
+  <li>The over-appreciated currency is explained by dutch-disease and/or a strategy of “growth by external savings”</li>
+</ol>
+
+<p>The new-developmentalist understanding involves three possible “equilibria” for the exchange rate (measured as the price of foreign currecy in domestic currency, i.e. BRL/USD):</p>
+<ol>
+  <li>The industrial equilibrium exchange rate: the exchange rate at which industrial companies operating with state-of-the-art technology remain competitive in international markets</li>
+  <li>The current-account equilibrium exchange rate: the exchange rate at which imports equal exports</li>
+  <li>The market exchange rate: the exchange rate solved for in competitive currency markets (which include the potential effects of high interest rates set to attract external savings)</li>
+</ol>
+
+<p>Through the new-developmentalist lens, the macroeconomic problem of middle-income countries is that the industrial equilibrium can be above (more depreciated) than the current-account equilibrium rate due to dutch-disease (high productivity of commodity sector causing high exports and appreciating the currency). Additionally, the market rate can be abouve the current-account equilibrium rate due to the government imposing a high interest rate trying o attract foreign capitals.</p>
+
+<p>The relationship is summarized in the equation below:
+\(e^{market} = e^{ind} + \underset{\text{Dutch disease}}{(e^{CAB} - e^{ind})} + \underset{\text{External savings strategy}}{(e^{market} - e^{CAB})}\)</p>
+
+<p>The first new-developmentalist, quantitative growth model has only been published in 2020, by <a href="https://www.sciencedirect.com/science/article/abs/pii/S0954349X20303830">Oreiro, da Silva and Dávila-Fernández (2020)</a>. As I am working through new-developmentalist ideas, I decided to reproduce their model in python, and share it with anyone who might be interested in playing with it. See here the <a href="https://github.com/riktross/new-developmentalist-macro-model.git">Github repository for the model</a></p>
+
+<p>I will share some of the results here. The model starts in a steady-state growth path, and a change to the parameter $\beta_1$, that regulates the sensitivity of the share of manufacturing to the exchange rate. This parameter captures the effect of policies that protect the national industry, such as import tariffs. The change, interpreted as a reduction in industry protection, introduces the dutch disease to the model, and a slow de-industrialization process. We analyze three scenarios, each with a different response by government toward the exchange rate (managed through interest rate policy).</p>
+
+<p><img src="/assets/images/2024-02-24-a-new-developmentalist-growth-model/image1.png" alt="" /></p>
+
+<p><strong>Exchange rate</strong>
+The three scenarios differ according to how the exchange rate is set after the appearance of the dutch disease:</p>
+<ol>
+  <li>The market exchange rate is set at the industrial equilibrium (neutralization of dutch disease)</li>
+  <li>The market exchange rate is set at current-account balance equilibrium</li>
+  <li>The market exchange rate is set below the current-account equilibrium due to the government targetting external savings</li>
+</ol>
+
+<p><img src="/assets/images/2024-02-24-a-new-developmentalist-growth-model/image2.png" alt="" /></p>
+
+<p><strong>De-industrialization:</strong></p>
+
+<p>In the blue curve, the dutch disease is neutralized, and thus the share of manufacturing remains stable. The other curves see a decrease in the share of manufacturing in output.</p>
+
+<p><img src="/assets/images/2024-02-24-a-new-developmentalist-growth-model/image3.png" alt="" /></p>
+
+<p><strong>Interest rates:</strong></p>
+
+<p>A mirror image of the exchange rate graph, due to the inverse relationship between exchange rates and interest rates</p>
+
+<p><img src="/assets/images/2024-02-24-a-new-developmentalist-growth-model/image4.png" alt="" /></p>
+
+<p><strong>Output:</strong></p>
+
+<p>Output grows fastest when dutch disease is neutralized, because productivity grows faster when the share of industry is higher, due to the innovative nature of the sector.</p>
+
+<p><img src="/assets/images/2024-02-24-a-new-developmentalist-growth-model/image5.png" alt="" /></p>
+
+<p><strong>Labor productivity:</strong></p>
+
+<p>There is a brief increase in output and employment after the appreciation of the exchange rate, since the lower exchange rate reduces the propensity to import. This lower unemployment in that period increases productivity through the labor market channel. But that increase is short-lived, as the effect of de-industrialization dominates in the long-run</p>
+
+<p><img src="/assets/images/2024-02-24-a-new-developmentalist-growth-model/image6.png" alt="" /></p>
+
+<p><strong>Real wage:</strong></p>
+
+<p>The real wage initially rises in the scenario of an appreciated exchange rate, and decreases in the scenario where the dutch disease is neutralized through depreciation. This is because of the imported goods consumed by workers. But only the neutralization scenario can maintain the real wage growth in the long run, as the other two scenarios are dragged down by de-industrialization and the consequent slow-down in productivity growth. The practice of appreciating the currency to keep real wages high in the short-term is called “exchange rate populism”.</p>
+
+<p><strong>Conclusions</strong></p>
+
+<p>The model by <a href="https://www.sciencedirect.com/science/article/abs/pii/S0954349X20303830">Oreiro, et. al (2020)</a> is a great addition to the literature on new-developmentalism, as it makes its interpretation of the key dynamics of the middle-income trap completely explicit. Hopefully my reproduction of the model can help you, the reader, to investigate the new-developmentalist propositions further.</p>
+
+<hr />
+
+<p><strong>Sources</strong> <br />
+<a href="https://www.bresserpereira.org.br/papers/2017/299-New%20Developmentalism-DOC-Format.pdf">Bresser-Pereira (2017)</a></p>
+
+<p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0954349X20303830">Oreiro, da Silva and Dávila-Fernández (2020)</a></p>]]></content><author><name>Erik R.</name></author><category term="Blog" /><category term="Brazil" /><category term="Macroeconomics" /><category term="Development" /><category term="Modelling" /><summary type="html"><![CDATA[The slow-down of economic development experienced by Brazil and other middle-income countries can be well explained by “New Developmentalism”. New Developmentalism is a macroeconomic framework (or school of thought) originated by Luiz Carlos Bresser-Pereira that puts international trade at the heart of the explanation of the middle income trap. For a short introduction to the framework, see this paper by Bresser-Pereira.]]></summary></entry><entry><title type="html">Growth from Energy Efficiency</title><link href="/blog/growth-from-energy-efficiency/" rel="alternate" type="text/html" title="Growth from Energy Efficiency" /><published>2024-01-24T00:00:00+00:00</published><updated>2024-01-24T00:00:00+00:00</updated><id>/blog/growth-from-energy-efficiency</id><content type="html" xml:base="/blog/growth-from-energy-efficiency/"><![CDATA[<!--more-->
+<p>A few weeks ago I have come across to a great blog called <a href="https://dothemath.ucsd.edu/2011/07/galactic-scale-energy/">“Do the Math”</a>, authored by astrophysicist Tim Murphy. It is an interesting blog, that uses simple back-of-the-envelope calculations to highlight the scale of our civilization, and the challenges that it faces and will continue to face due to its confinement to a finite planet. One of the most interesting blogposts is called “Galactic-Scale Energy”, and shows that growth in energy consumption cannot continue forever. An update of the argument is present in Tim Murphy’s freely available book <a href="https://escholarship.org/uc/energy_ambitions">Energy and Human Ambitions on a Finite Planet</a>. I highly recommend anyone to read it.</p>
+
+<p>The main argument is an <em>reductio ad absurdum</em> type of argument, that illustrates that exponential growth rates quickly raise our level of energy consumption to absurd sizes. I will reproduce the two main points here:
+Premises:</p>
+<ol>
+  <li>The world consumes energy at a scale of <strong>~18TW</strong></li>
+  <li>We grow our energy consumption at least at a rate of <strong>2.3%</strong> p.a.</li>
+  <li>The maximum amount of energy from sunlight on planet Earth with solar panels of 20% efficiency (highly efficient) is <strong>~6000 TW</strong></li>
+  <li>The production of energy creates waste heat on the energy surface (Stefan-Boltzman Law)</li>
+</ol>
+
+<p>Conclusions:</p>
+<ol>
+  <li>If we rely on solar energy, the entire solar potential would be reached within 250 years (and we will all live in shadow)</li>
+  <li>If we rely on some non-solar source (e.g. fusion energy) we will cause temperature increases of 1°C in 200 years, 9°C in 300 years, and 100°C (boiling temperatures) in less than 420 years</li>
+  <li>Energy growth must end in a matter of a few centuries</li>
+</ol>
+
+<p>This is a striking conclusion, given that income and energy consumption are so closely related. The end of growth for energy has important implications for growth, given that energy is a vital input to all production processes, with no potential substitute. <a href="https://ourworldindata.org/grapher/energy-use-per-person-vs-gdp-per-capita">This chart from Our World in Data</a> shows the tight relationship between energy consumption and GDP quite well.</p>
+
+<iframe src="https://ourworldindata.org/grapher/energy-use-per-person-vs-gdp-per-capita" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<p>With this post, I want to decompose economic growth into two numbers</p>
+<ul>
+  <li>Growth in GDP per unit energy [$/kWh] (inverse of energy intensity)</li>
+  <li>Growth in energy consumption per capita [kWh/person]</li>
+</ul>
+
+<p>i.e. decompose GDP into the simple identity:
+\(GDP_{per \ capita}=Energy_{per \ capita} \cdot \frac{GDP}{Energy}\)</p>
+
+<p>And evaluate the relative size of both of these components in economic growth. I am looking at things from a global scale to avoid the issue of countries simply off-shoring energy-intensive production activities to other countries, and importing the resulting goods, hiding the true energy intensity of their lifestyle.</p>
+
+<p>Below you can see the decomposition of economic growth into the two components by decade. The 70’s and 2000’s saw the biggest growth in per capita energy consumption, of around 1.2-1.3%. In the 80’s and 2010’s the growth in per capita energy consumption has been much lower, below 0.5%. Surprisingly, energy consumption per capita has been virtually nil over the 90’s. Still, GDP per capita grew by almost 2% over the period. This to me is a positive data point, that shows that to some extent there might be a possibility to grow GDP without growing energy consumption, especially if policies aim for that goal (which I am sure we should expect to happen)</p>
+
+<p><img src="/assets/images/2024-01-24-growth-from-energy-efficiency/contributions_to_growth.png" alt="" /></p>
+
+<p>Over the entire period, the decomposition is as shown below. Around 0.7% growth in energy consumption per capita, and a bit more than 1.2% of GDP per unit energy. If one were to read these numbers very naively, one could say that GDP per capita could have grown 1.2% over the period without any additional kWh being consumed per person, per year, since the 1970. But unfortunately this is not so simple, since much of the gains in productivity might only have been possible with increased scale.</p>
+
+<p><img src="/assets/images/2024-01-24-growth-from-energy-efficiency/growth_rates.png" alt="" /></p>
+
+<p>I personally am not that optimistic around our decoupling potential, but I strongly hope that I will be proven wrong in this respect. The numbers that quickly calculated here slightly improved my outlook on this matter, since I did not think that energy intensity has been dropping at twice the rate that energy consumption has been growing. Still, in order to truly become sustainable we need to end - and possibly reverse - the growth in energy consumption. How this can be done in an orderly and equitable manner is a vital question that requires a lot of collective thinking from our society.</p>]]></content><author><name>Erik R.</name></author><category term="Blog" /><category term="Growth" /><category term="Energy" /><category term="Decoupling" /><summary type="html"><![CDATA[A few weeks ago I have come across to a great blog called “Do the Math”, authored by astrophysicist Tim Murphy. It is an interesting blog, that uses simple back-of-the-envelope calculations to highlight the scale of our civilization, and the challenges that it faces and will continue to face due to its confinement to a finite planet. One of the most interesting blogposts is called “Galactic-Scale Energy”, and shows that growth in energy consumption cannot continue forever. An update of the argument is present in Tim Murphy’s freely available book Energy and Human Ambitions on a Finite Planet. I highly recommend anyone to read it.]]></summary></entry><entry><title type="html">The Irrationally High Interest Rates in Brazil</title><link href="/-blog/the-irrationally-high-interest-rates-in-brazil/" rel="alternate" type="text/html" title="The Irrationally High Interest Rates in Brazil" /><published>2023-12-28T00:00:00+00:00</published><updated>2023-12-28T00:00:00+00:00</updated><id>/-blog/the-irrationally-high-interest-rates-in-brazil</id><content type="html" xml:base="/-blog/the-irrationally-high-interest-rates-in-brazil/"><![CDATA[<!--more-->
+<p>The central bank interest rate is an economic variable of critical importance in the economic development of a nation. It determines the returns of all government securities, and every investor uses it as a benchmark when making risky investment decisions. No investment will be made unless its expected rate of return is higher than the central bank interest rate by a margin large enough to compensate for the riskyness of the investment. Put simply, <strong>increasing the interest rate decreases the viability of real investments in the economy.</strong></p>
+
+<p>Brazilian interest rates are incredibly high, and have been a drag on investments for a long time. In order to put this into perspective, I have plotted the nominal returns in the Brazilian stock market (Ibovespa) versus the Brazilian central bank interest rate (Selic). The comparison can give an idea of how profitable investing in real economic activity versus the risk-free government subsidy. Over a sufficiently long time period of time, the stock market <em>should</em> outperform the central bank rate, as investors require compensation for the higher risk of stock market positions, as any introductory finance text book will tell you. The intuition is simple, higher risk -&gt; higher reward.</p>
+
+<p>It turns out that in Brazil, the opposite is the case: <strong>the risk-free investment outperforms the risky investment!</strong> The first plot below shows the development of a R$100 investment made in August 1994 (the early months after the Brazilian Real was adopted as currency) up to August 2023. After 29 years the investment in the security that tracks the central bank interest rate grew to ~6800 Reais while the stock market investment grew to ~2200 Reais. The total return of the investment was 3 times that of the risky stock market investment!</p>
+
+<p><img src="/assets/images/2023-12-28-the-irrationally-high-interest-rates-in-brazil/image1.png" alt="" /></p>
+
+<p>This second plot shows the rolling annual rate of return of the two investments, highlighting the risk differential. I know that I would prefer to enjoy the smooth ride on the orange line (earning 3 times as much) than the bumpy ride of the bovespa)</p>
+
+<p><img src="/assets/images/2023-12-28-the-irrationally-high-interest-rates-in-brazil/image2.png" alt="" /></p>
+
+<p>It is not surprising that depending on the measure, studies often estimate a negative equity risk premium for the Brazilian economy, such as <a href="https://www.proquest.com/openview/3ca1cba8c4d6cf0478b751d98367201c/1?pq-origsite=gscholar&amp;cbl=2028896">Walter Gonçalves, et al (2011)</a>.</p>
+
+<p>The problem lies not in the bad performance of the stock market, but in the absurdly high interest rate. Over the entire period, the Stock market return has been around 11.1% per year (a normal rate of return), while the central bank rate has been around 15.7% per year.</p>
+
+<p>So finally, the remaing question is: <strong>Why would any investor in this country actually want to invest real productive activities instead of earning a rent from the central bank?</strong></p>
+
+<p>The absurdity of the past 30 years is undeniable. As of writing, Brazil still has one of the highest real rates of interest in the world (<a href="https://web.archive.org/web/20250413164339/https://g1.globo.com/economia/noticia/2023/12/13/ranking-mundial-taxa-de-juros-reais.ghtml">Second place in this list of 40 countries</a>) and I do not have high hopes a structural shift any time soon. Why are they so high? Beyond being a stable source of income for rentiers, the high rate keeps the Real appreciated (by keeping demand for Brazilian currency high for foreign investors) and thus sustains the real purchasing power of Brazilians that have to buy industrial goods produced abroad. Lowering the interest rate significantly and permanently would not be a policy decision free of costs and risks.</p>
+
+<iframe src="https://data.worldbank.org/share/widget?indicators=NE.GDI.FTOT.ZS&amp;locations=BR" width="700" height="450" frameborder="0" scrolling="no"></iframe>
+
+<p>Brazil has a lot to do in its path to economic development. Investment (as a % of GDP) has been declining in the past decade, slowing down the growth in Brazil’s productive capacity. It would be wise to remove the breaks on the economy placed by the central bank and let capital be employed where it can actually enable the development of the nation</p>
+
+<hr />
+
+<p><strong>Sources</strong></p>
+<ul>
+  <li>
+    <p>IBOVESPA INDEX<br />
+Yahoo finance
+link: https://finance.yahoo.com/quote/%5EBVSP/history?guccounter=1<br />
+direct download link: https://query1.finance.yahoo.com/v7/finance/download/%5EBVSP?period1=735868800&amp;period2=1693008000&amp;interval=1d&amp;events=history&amp;includeAdjustedClose=true</p>
+  </li>
+  <li>
+    <p>SELIC<br />
+Banco Central do Brasil<br />
+Code: 1178<br />
+Full name: Interest rate - Selic in annual terms (basis 252)<br />
+link: https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries</p>
+  </li>
+  <li>
+    <p>Gross fixed capital formation<br />
+World Bank<br />
+link: https://data.worldbank.org/indicator/NE.GDI.FTOT.ZS?locations=BR</p>
+  </li>
+</ul>]]></content><author><name>Erik R.</name></author><category term="-Blog" /><category term="-Brazil" /><category term="-Finance" /><category term="-Development" /><summary type="html"><![CDATA[The central bank interest rate is an economic variable of critical importance in the economic development of a nation. It determines the returns of all government securities, and every investor uses it as a benchmark when making risky investment decisions. No investment will be made unless its expected rate of return is higher than the central bank interest rate by a margin large enough to compensate for the riskyness of the investment. Put simply, increasing the interest rate decreases the viability of real investments in the economy.]]></summary></entry></feed>
