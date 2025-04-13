@@ -25,7 +25,7 @@ It is not surprising that depending on the measure, studies often estimate a neg
 
 The problem lies not in the bad performance of the stock market, but in the absurdly high interest rate. Over the entire period, the Stock market return has been around 11.1% per year (a normal rate of return), while the central bank rate has been around 15.7% per year.
 
-So finally, the remaing question is: **Why would any investor in this country actually want to invest real productive activities instead of earning a rent from the central bank?**
+Finally, the remaing question is: **Why would any investor in this country actually want to invest real productive activities instead of earning a rent from the central bank?**
 
 The absurdity of the past 30 years is undeniable. As of writing, Brazil still has one of the highest real rates of interest in the world ([Second place in this list of 40 countries](https://web.archive.org/web/20250413164339/https://g1.globo.com/economia/noticia/2023/12/13/ranking-mundial-taxa-de-juros-reais.ghtml)) and I do not have high hopes a structural shift any time soon. Why are they so high? Beyond being a stable source of income for rentiers, the high rate keeps the Real appreciated (by keeping demand for Brazilian currency high for foreign investors) and thus sustains the real purchasing power of Brazilians that have to buy industrial goods produced abroad. Lowering the interest rate significantly and permanently would not be a policy decision free of costs and risks.
 
