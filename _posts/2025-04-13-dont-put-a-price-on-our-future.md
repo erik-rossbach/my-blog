@@ -1,5 +1,6 @@
 ---
 title: "Don't Put a Price on Our Future"
+math: true
 categories:
   - Blog
 tags:
@@ -16,7 +17,9 @@ Of course, they emphasize that they are not assigning value to a single human be
 
 My least favorite cost-benefit analysis comes from the winner of the The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel, William Nordhaus. During his prize lecture in 2018 he showed a graph that claimed that in the economic "optimal" path for climate change the average world temperature would be ~3.5 °C by the year 2100.
 
-![# Prize lecture: William D. Nordhaus, Prize in Economic Sciences 2018](https://youtu.be/h1RkSuAs03Q?feature=shared&t=1182)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h1RkSuAs03Q?si=qTUhAvPe1YndDsab&amp;start=1183" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 Which is honestly, very depressing. In the [latest version](https://doi.org/10.1073/pnas.2312030121) of his model, he estimates that warming our planet by 3 °C will cost about 2.2% of GDP. If you include tipping points this estimate increases by about 1% (i.e. the risk that going above 1.5 °C of warming will destabilize the whole earth's climate system and irreversibly move us away from the conditions we have relied on to build our civilization). That is less than a setback of merely **two-years** (!) in terms of GDP per capita (using the average world's growth rate between 1990-2023).  [At 1.5 °C it already becomes **likely** (not just possible) to trigger tipping points leading to the collapse of Greenland and West Antarctic ice sheets, widespread permafrost thaw, and massive die-off of coral reefs](https://web.archive.org/web/20250408192135/https://www.stockholmresilience.org/research/research-news/2022-09-08-world-at-risk-of-passing-multiple-climate-tipping-points-above-1.5c-global-warming.html), but according to Nordhaus, causing double this temperature increase is just as harmless as losing two-years of GDP growth.
 
@@ -24,7 +27,7 @@ Now, there is no justification for the relentless need to reduce everything to a
 
 While substitutability is the rule in preferences in standard microeconomics, it is not a law related to actual people's preferences. People can, for example, hold preferences of a lexicographic nature. Take this example from Lavoie (2015):
 
-![lexicographic ordering](assets\images\lexicographic_ordering_indifference_curves.jpg)
+![](/assets/images/2025-04-13-dont-put-a-price-on-our-future/lexicographic_ordering_indifference_curves.jpg)
 
 The figure represents the preferences of an individual between two "goods", $z_1$ and $z_2$ . Let's say $z_1$ represents income and $z_2$ represents protected natural habitat for wildlife. The individual's main priority is to reach a minimum level of income $z_1^*$, no amount of environmental protection is preferred to a rise in income (E is preferred to A, B, C). However, once his satisficing income target is met, his priority shifts to environmental protection. No amount of income is preferred to a rise in environmental protection (G is preferred to D, E, F). The environment is not reducible to a dollar price, it is not for sale.  This type of preference does a good job at capturing the idea that, once we have taken care of ourselves (by achieving a dignified standard of living) it is our moral responsibility to take care of our biosphere at any cost.
 
